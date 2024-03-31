@@ -10,7 +10,7 @@
 void _pchar(stack_t **head, unsigned int c)
 {
 	stack_t *temp;
-	
+
 	temp = *head;
 	if (!temp)
 	{
